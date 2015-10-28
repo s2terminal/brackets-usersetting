@@ -1,0 +1,10 @@
+{
+  "fonts.fontSize": "14px",
+  "fonts.fontFamily": "'MyricaM','SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+	"spaceUnits": 2,
+	"tabSize": 2,
+	"styleActiveLine": true,
+  "showCursorWhenSelecting": true,
+	"scrollPastEnd": true,
+	"themes.theme": "dark-theme"
+}
