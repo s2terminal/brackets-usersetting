@@ -6,6 +6,17 @@
 
 設定ファイルにシンボリックリンクを貼る
 
+### Windowsの例
+
+管理者権限でコマンドプロンプトを起動し、下記コマンドを実行
+
+```
+cd "C:\Users\ユーザ名\AppData\Roaming\Brackets"
+cmd /c mklink brackets.json  "C:\Users\ユーザ名\Documents\git\brackets-usersetting\brackets.json" 
+cmd /c mklink keymap.json    "C:\Users\ユーザ名\Documents\git\brackets-usersetting\keymap.json" 
+cmd /c mklink /D extensions  "C:\Users\ユーザ名\Documents\git\brackets-usersetting\extensions" 
+```
+
 ### Macの例
 
 ターミナルを起動し下記コマンドを実行

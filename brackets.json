@@ -1,6 +1,6 @@
 {
-  "fonts.fontSize": "14px",
-  "fonts.fontFamily": "'MyricaM','SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
+  "fonts.fontSize": "15px",
+  "fonts.fontFamily": "'Myrica M','SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace",
 	"spaceUnits": 2,
 	"tabSize": 2,
 	"styleActiveLine": true,
